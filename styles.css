@@ -1,0 +1,39 @@
+.row {
+	padding: 25px;
+}
+
+.page-footer {
+	margin-top: 45px;
+}
+
+h2.title {
+	font-family: 'Josefin Slab', serif;
+	font-size: 10em;
+	color: #228B22;
+}
+
+h5.title {
+	font-family: 'Josefin Slab', serif;
+	font-size: 3em;
+	color: #228B22;
+}
+
+strong.work {
+	color: #228B22;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+   text-align: center;
+   margin: 30px;
+}
+
+.start {
+	background-color: #228B22;
+	width: 20%;
+	height: 50px;
+}
